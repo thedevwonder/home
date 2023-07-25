@@ -1,8 +1,14 @@
 * {
-    background-color: black;
-    color:whitesmoke;
+  background-color: black;
+  color: whitesmoke;
 }
 
 a {
-    color: #c46259;
+  color: #c46259;
+}
+
+#layout {
+  height: 100vh;
+  width: 100vw;
+  border: none;
 }
